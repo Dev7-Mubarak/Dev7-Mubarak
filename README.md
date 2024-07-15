@@ -22,7 +22,8 @@ Mubarak</a></h1>
 
 - 📄 Know about my experiences.
 <br/><br/><br/><br/><br/>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center" >Languages And Tools🔭: </h3>
 <br/>
 <p align="center">
@@ -32,7 +33,8 @@ Mubarak</a></h1>
 </p>
 
 <br/>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 <h3>Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" height="20" style="margin-right: 10px; margin-top: 20px">: </h3>
