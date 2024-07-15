@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Dev7-Mubarak" target="blank">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a href="https://github.com/Dev7-Mubarak" target="blank">
 Mubarak</a></h1>
 <h3 align="center">A Full Stack .Net Developer From Yemen</h3>
 
