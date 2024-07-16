@@ -20,7 +20,7 @@ Mubarak</a></h1>
 
 - 📫 How to reach me **mubark7382@gmail.com**
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center" >Languages And Tools🔭: </h3>
