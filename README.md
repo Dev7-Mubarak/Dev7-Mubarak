@@ -14,7 +14,7 @@ Mubarak</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning React && Angular <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfReact</a>
+- 🌱 I’m currently learning React<a href="" target="blank">100DaysOfReact</a>
 
 - 💬 Ask me about **.Net & React**
 
