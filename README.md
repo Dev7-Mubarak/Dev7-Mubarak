@@ -14,8 +14,6 @@ Mubarak</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning React<a href="" target="blank">100DaysOfReact</a>
-
 - 💬 Ask me about **.Net & React**
 
 - 📫 How to reach me **mubark7382@gmail.com**
