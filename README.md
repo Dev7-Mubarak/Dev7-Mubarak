@@ -14,7 +14,7 @@ Mubarak</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 💬 Ask me about **.Net & React**
+- 💬 Ask me about **.Net**
 
 - 📫 How to reach me **mubark7382@gmail.com**
 
