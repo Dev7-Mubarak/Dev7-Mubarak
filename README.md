@@ -54,7 +54,7 @@
 </div>
 
 <!-- GitHub Stats Section -->
-<div align="center" class="icons-social" style="margin-top: 20px;">
+<div align="left" class="icons-social" style="margin-top: 20px;">
   <h3>GitHub Stats 
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" height="20" style="margin-bottom: -3px;" />
   </h3>
