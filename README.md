@@ -5,23 +5,17 @@
   <img src="https://komarev.com/ghpvc/?username=dev7-mubarak&label=Profile%20views&color=0e75b6&style=flat" alt="dev7-mubarak" />
 </p>
 
-<div align="center">
-  <img top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-</div>
 
+### 🚀 About Me
 
-<h3 align="center">🚀 About Me</h3>
-
-
-- 💻 Backend Developer specializing in **.NET technologies**  
+- 💻 **Backend Developer** specializing in **.NET technologies**  
 - 🌱 Currently learning **advanced .NET Core** concepts to build scalable systems  
 - 🚀 Interested in **Full Stack Mobile Development**  
-- 📈 Always looking for ways to improve systems performance and security  
+- 📈 Always looking for ways to improve **systems performance** and **security**  
 - 💞️ Open to collaboration on **backend .NET projects**  
 - 😄 Pronouns: **He/Him**  
-- 📫 Reach me at: **mubark7382@gmail.com**  
-- ⚡ Fun fact: I love solving complex problems.
-
+- 📫 Reach me at: **[mubark7382@gmail.com](mailto:mubark7382@gmail.com)**  
+- ⚡ Fun fact: I love solving **complex problems**
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
