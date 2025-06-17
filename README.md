@@ -9,7 +9,8 @@ Mubarak</a></h1>
 </a>
 
 
-### 🚀 About Me
+
+  ### 🚀 About Me
 
 - 💻 Backend Developer specializing in **.NET technologies**
 - 🌱 Currently learning **advanced .NET Core** concepts to build scalable systems
@@ -18,7 +19,7 @@ Mubarak</a></h1>
 - 💞️ Open to collaboration on **backend .NET projects**
 - 😄 Pronouns: **He/Him**
 - 📫 Reach me at: **mubark7382@gmail.com**
-- ⚡ Fun fact: I love solving complex problems and building scalable systems
+- ⚡ Fun fact: I love solving complex problems.
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -60,7 +61,6 @@ Mubarak</a></h1>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev7-mubarak&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dev7-mubarak&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-profile-trophy.vercel.app/?username=dev7-mubarak&theme=radical&no-frame=true&title=Stars,Commits,PullRequest,Issues,Repositories,Followers" alt="GitHub Trophies" width="100%"/>
 </div>
 
