@@ -48,19 +48,28 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<div align="center" class="icons-social" style="margin-left: 10px;">
-<h3>Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" height="20" style="margin-right: 10px; margin-top: 20px" /> </h3>
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev7-mubarak&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="welcome gif" />
 </div>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=dev7-mubarak&theme=radical&no-frame=true&title=Stars,Commits,PullRequest,Issues,Repositories,Followers" alt="GitHub Trophies"/>
-</p>
+<!-- GitHub Stats Section -->
+<div align="center" class="icons-social" style="margin-top: 20px;">
+  <h3>GitHub Stats 
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" height="20" style="margin-bottom: -3px;" />
+  </h3>
+
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dev7-mubarak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+   <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev7-mubarak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=dev7-mubarak&theme=radical&no-frame=true&title=Stars,Commits,PullRequest,Issues,Repositories,Followers&rank=SECRET,S,AAA,AA,A,B,C&margin-w=15" alt="GitHub Trophies" />
+
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
