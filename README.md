@@ -59,9 +59,9 @@ Mubarak</a></h1>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 <h3>Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" height="20" style="margin-right: 10px; margin-top: 20px"> </h3>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev7-mubarak&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=dev7-mubarak&theme=radical&no-frame=true&title=Stars,Commits,PullRequest,Issues,Repositories,Followers" alt="GitHub Trophies" width="100%"/>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev7-mubarak&theme=tokyonight&hide_border=true" alt="Streak Stats" style="max-width: 100%;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dev7-mubarak&theme=radical&no-frame=true&title=Stars,Commits,PullRequest,Issues,Repositories,Followers" alt="GitHub Trophies" style="max-width: 100%;"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
