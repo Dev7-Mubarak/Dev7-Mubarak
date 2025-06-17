@@ -63,9 +63,9 @@ Mubarak</a></h1>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev7-mubarak&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dev7-mubarak&theme=radical&no-frame=true&title=Stars,Commits,PullRequest,Issues,Repositories,Followers" alt="GitHub Trophies"/>
-</div>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
