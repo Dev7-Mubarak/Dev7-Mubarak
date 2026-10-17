@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=dev7-mubarak&label=Profile%20views&color=0e75b6&style=flat" alt="dev7-mubarak" />
 </p>
 
-
 ### 🚀 About Me
 
 - 💻 **Backend Developer** specializing in **.NET technologies**  
